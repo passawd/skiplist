@@ -1,8 +1,8 @@
 # skiplist
 
 
-skiplist.h 跳表实现
-store/dumpFile 数据存放本地磁盘文件
+->skiplist.h 跳表实现
+->store/dumpFile 数据存放本地磁盘文件
 main.cpp 使用skiplist.h进行数据操作
 stress_test.cpp 压力测试
 
