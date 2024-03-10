@@ -34,6 +34,7 @@
 
 # 参考
 
+* [维基百科](https://en.wikipedia.org/wiki/Skip_list)
 * [github](https://github.com/youngyangyang04/Skiplist-CPP)
 
 
